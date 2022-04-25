@@ -1,0 +1,65 @@
+body {
+    background-color: #E9EFC0;
+    margin: 5rem 25% 5rem 25%;
+}
+
+a {
+    color:#4E944F;
+}
+
+footer {
+    padding-top: 5rem;
+    text-align: center;
+
+}
+
+.heading {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 1rem;
+    color:#4E944F;
+}
+h2, h3, h4, h5, h6 {
+    color:#83BD75;
+}
+hr {
+    width: 10%;
+    border: 8px dotted;
+    border-style: none none dotted;
+    color: #4E944F;
+    padding-top: 0.1rem;
+    padding-bottom: 4rem;
+}
+
+.qouteInspire {
+    font-size: larger;
+    letter-spacing: 0.3rem;
+    font-style: italic;
+}
+
+.imgLevy {
+    margin-top: 4rem;
+    height: 18rem;
+    width: 18rem;
+    border-radius: 50%;
+}
+
+table {
+    border: solid 2px #4E944F;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+
+
+.introduction {
+    padding-top: 4rem;
+}
+
